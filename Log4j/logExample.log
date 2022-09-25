@@ -1,0 +1,2 @@
+ INFO 2022-09-25 17:30:12,843 ejemplo.Main (Main.java:main:28) - El resultado de dividir 5/5 es 1
+ERROR 2022-09-25 17:30:26,107 ejemplo.Main (Main.java:main:32) - No se puede dividir entre 0
